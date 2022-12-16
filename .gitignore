@@ -1,2 +1,5 @@
 .sass-cache
 config.codekit3
+
+# IDE files.
+*.idea
